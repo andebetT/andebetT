@@ -40,5 +40,5 @@ successfully clearing the HackerRank Problem Solving Certification! 🎉
 Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
 # Contact 📫
-Feel free to reach out to me on LinkedIn  https://www.linkedin.com/in/andebet or via email andebettilahun24@gmail.com. I'm always eager to collaborate on exciting projects and share my expertise in Python development and DSA. 🤝💻
+Feel free to reach out to me on LinkedIn  https://www.linkedin.com/in/andebet or via email andebettilahun24@gmail.com. I'm always eager to collaborate on exciting projects and share my expertise in Python development ,DSA,AI and Data science. 🤝💻
 
