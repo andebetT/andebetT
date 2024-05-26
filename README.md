@@ -26,7 +26,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 - **Weather App**: Developed a user-friendly weather application using Python. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
 
-- **Calculator**: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟
+- **Calculator**: Developed a simple calculator application using Python', enabling users to perform basic arithmetic operations. 📟
 
 - **Password Generator**: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
 
