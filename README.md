@@ -31,13 +31,13 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 I am an active participant in various coding challenges and competitions, where I have demonstrated my expertise in solving complex problems efficiently. Some of my achievements include:
 
-Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
+                             .Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
 
-Achieved top 25% in the test Testdome online software engineering certification test 🔥
+                            .Achieved top 25% in the test Testdome online software engineering certification test 🔥
 
-successfully clearing the HackerRank Problem Solving and python  Certification! test.🎉
+                            .successfully clearing the HackerRank Problem Solving and python  Certification! test.🎉
 
-Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
+                            .Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
 # Contact 📫
 Feel free to reach out to me on LinkedIn  https://www.linkedin.com/in/andebet or via email andebettilahun24@gmail.com. I'm always eager to collaborate on exciting projects and share my expertise in Python development ,DSA,AI and Data science. 🤝💻
