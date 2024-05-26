@@ -30,13 +30,13 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 - **Password Generator**: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
 
-- **Todo List App***: Developed a todo list application using Python and the Flask web framework, allowing users to create, manage, and track their daily tasks. 📝🗓️
+- **Todo List App**: Developed a todo list application using Python and the Flask web framework, allowing users to create, manage, and track their daily tasks. 📝🗓️
 
 # Competitive Programming 🏆
 
 I am an active participant in various coding challenges and competitions, where I have demonstrated my expertise in solving complex problems efficiently. Some of my achievements include:
 
-        - Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
+        - **Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
               
               •Achieved top 25% in the test Testdome online software engineering certification test 🔥
               
