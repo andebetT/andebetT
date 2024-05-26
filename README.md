@@ -6,7 +6,9 @@
 As an experienced Python developer and an expert in Data Structures and Algorithms (DSA), I have a strong passion for problem-solving and creating efficient, scalable, and maintainable software solutions. With over 3 years of hands-on experience in python , I have honed my skills in various domains, including algorithim development, data science, and AI.
 . 🌐🧠
 
+
 # Skills 🛠️
+
 
 ***Programming Languages***: Python 🐍,C, C++ 💻.
 
@@ -18,7 +20,9 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 ***Tools***: Git 🐙, GitHub 🐱‍💻, pycharm ,Jupyter Notebook 📓
 
+
 # Projects 🚀
+
 
 ***Weather App***: Developed a user-friendly weather application using Python. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
 
@@ -41,5 +45,6 @@ I am an active participant in various coding challenges and competitions, where 
               •Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
 # Contact 📫
+
 Feel free to reach out to me on LinkedIn  https://www.linkedin.com/in/andebet or via email andebettilahun24@gmail.com. I'm always eager to collaborate on exciting projects and share my expertise in Python development ,DSA,AI and Data science. 🤝💻
 
