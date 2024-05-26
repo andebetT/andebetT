@@ -1,15 +1,15 @@
 # Andebet Tilahun - Python Developer and DSA Coding Expert
 ![Python][]![Data Structures and Algorithms][]![LinkedIn][]
 
-About Me
+### About Me
 As an experienced Python developer and an expert in Data Structures and Algorithms (DSA), I have a strong passion for problem-solving and creating efficient, scalable, and maintainable software solutions. With over 3 years of hands-on experience in the industry, I have honed my skills in various domains, including web development, data analysis, and automation.
 
-Skills
+#### Skills
 Programming Languages: Python,C++
 Data Structures and Algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming
 Data Analysis: NumPy, Pandas, Matplotlib, Seaborn
 Machine Learning: Scikit-learn, TensorFlow, Keras
-Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis)
+
 Tools: Git, GitHub, Docker, CI/CD, Pytest, Jupyter Notebook
 Projects
 Weather App: Developed a user-friendly weather application using Python. Implemented features such as real-time weather updates, location-based forecasting, and user preferences.
