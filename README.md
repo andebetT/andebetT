@@ -30,7 +30,8 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 # Competitive Programming 🏆
 
 I am an active participant in various coding challenges and competitions, where I have demonstrated my expertise in solving complex problems efficiently. Some of my achievements include:
-              "b"Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
+
+              "b " Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
               
               •Achieved top 25% in the test Testdome online software engineering certification test 🔥
               
