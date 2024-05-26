@@ -38,7 +38,7 @@ I am an active participant in various coding challenges and competitions, where 
 
         - **Ranked in the top 10% in the Testdome Python and DSA Certification Challenge**🥇.
         
-        - **Achieved top 25% in the test Testdome online software engineering certification test**🔥.
+        - ***Achieved top 25% in the test Testdome online software engineering certification test***🔥.
               
         - **successfully clearing the HackerRank Problem Solving and python  Certification! test**🎉.
         
