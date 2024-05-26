@@ -20,7 +20,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 ## Projects 🚀
 ***Weather App***: Developed a user-friendly weather application using Python, Flask, and third-party weather APIs. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
 
-***Calculator***: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟💻
+***Calculator***: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟
 
 ***Password Generator****: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
 
@@ -30,9 +30,11 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 I am an active participant in various coding challenges and competitions, where I have demonstrated my expertise in solving complex problems efficiently. Some of my achievements include:
 
-Ranked in the top 10% in the HackerRank Python Certification Challenge 🥇
+Ranked in the top 10% in the Testdome Python and DSA Certification Challenge 🥇
 
-Achieved a rating of 1800+ on CodeForces 🔥
+Achieved top 25% in the test Testdome online software engineering certification test 🔥
+
+successfully clearing the HackerRank Problem Solving Certification! 🎉
 
 Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
