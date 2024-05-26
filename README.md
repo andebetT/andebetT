@@ -12,13 +12,13 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 - **Programming Languages**: Python 🐍,C, C++ 💻.
 
-***Data Structures and Algorithms***: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming 🧠
+-**Data Structures and Algorithms**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming 🧠
 
-***Data science***: NumPy 🔢, Pandas 📊, Matplotlib 🎨, Seaborn 🌈
+-**Data science**: NumPy 🔢, Pandas 📊, Matplotlib 🎨, Seaborn 🌈
 
-***Machine Learning***: Scikit-learn 🤖, TensorFlow 🧠, Keras 🧠
+-**Machine Learning**: Scikit-learn 🤖, TensorFlow 🧠, Keras 🧠
 
-***Tools***: Git 🐙, GitHub 🐱‍💻, pycharm ,Jupyter Notebook 📓
+-**Tools**: Git 🐙, GitHub 🐱‍💻, pycharm ,Jupyter Notebook 📓
 
 
 # Projects 🚀
