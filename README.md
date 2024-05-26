@@ -1,11 +1,11 @@
 # Andebet Tilahun - Python Developer and DSA Coding Expert 🐍💻
-DSA|AI|Data science
+
 
 About Me 🙋‍♂️
 As an experienced Python developer and an expert in Data Structures and Algorithms (DSA), I have a strong passion for problem-solving and creating efficient, scalable, and maintainable software solutions. With over 3 years of hands-on experience in python , I have honed my skills in various domains, including algorithim development, data science, and AI.
 . 🌐🧠
 
-## Skills 🛠️
+# Skills 🛠️
 
 ***Programming Languages***: Python 🐍, C++ 💻.
 
@@ -27,7 +27,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 ***Todo List App***: Developed a todo list application using Python and the Flask web framework, allowing users to create, manage, and track their daily tasks. 📝🗓️
 
-## Competitive Programming 🏆
+# Competitive Programming 🏆
 
 I am an active participant in various coding challenges and competitions, where I have demonstrated my expertise in solving complex problems efficiently. Some of my achievements include:
 
