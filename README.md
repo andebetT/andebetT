@@ -2,7 +2,7 @@
 DSA|AI|Data science
 
 About Me 🙋‍♂️
-As an experienced Python developer and an expert in Data Structures and Algorithms (DSA), I have a strong passion for problem-solving and creating efficient, scalable, and maintainable software solutions. With over 3 years of hands-on experience in python , I have honed my skills in various domains, including aLgorithim development, data science, and AI.
+As an experienced Python developer and an expert in Data Structures and Algorithms (DSA), I have a strong passion for problem-solving and creating efficient, scalable, and maintainable software solutions. With over 3 years of hands-on experience in python , I have honed my skills in various domains, including algorithim development, data science, and AI.
 . 🌐🧠
 
 ## Skills 🛠️
@@ -11,7 +11,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 ***Data Structures and Algorithms***: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming 🧠
 
-***Data science****: NumPy 🔢, Pandas 📊, Matplotlib 🎨, Seaborn 🌈
+***Data science***: NumPy 🔢, Pandas 📊, Matplotlib 🎨, Seaborn 🌈
 
 ***Machine Learning***: Scikit-learn 🤖, TensorFlow 🧠, Keras 🧠
 
@@ -22,7 +22,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 ***Calculator***: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟
 
-***Password Generator****: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
+***Password Generator***: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
 
 ***Todo List App***: Developed a todo list application using Python and the Flask web framework, allowing users to create, manage, and track their daily tasks. 📝🗓️
 
