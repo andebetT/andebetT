@@ -19,7 +19,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 
 # Projects 🚀
 
-***Weather App***: Developed a user-friendly weather application using Python, Flask, and third-party weather APIs. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
+***Weather App***: Developed a user-friendly weather application using Python. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
 
 ***Calculator***: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟
 
