@@ -6,7 +6,7 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 . 🌐🧠
 
 ## Skills 🛠️
-Programming Languages: Python 🐍, C++ 💻.
+*** Programming Languages***: Python 🐍, C++ 💻.
 *** Data Structures and Algorithms***: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming 🧠
 *** Data science****: NumPy 🔢, Pandas 📊, Matplotlib 🎨, Seaborn 🌈
 *** Machine Learning***: Scikit-learn 🤖, TensorFlow 🧠, Keras 🧠
