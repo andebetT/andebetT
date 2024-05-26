@@ -39,12 +39,6 @@ successfully clearing the HackerRank Problem Solving Certification! 🎉
 
 Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
-Open-Source Contributions 🌐
-I believe in the power of open-source and have contributed to several projects on GitHub. Some of my notable contributions include:
-
-Submitted bug fixes and feature enhancements to the Flask web framework 🐛🆙
-Wrote comprehensive documentation and tutorials for the Pandas library 📚💻
-Developed and maintained a Python utility library for common data processing tasks 🛠️📦
-Contact 📫
-Feel free to reach out to me on LinkedIn or via email at [your.email@example.com]. I'm always eager to collaborate on exciting projects and share my expertise in Python development and DSA. 🤝💻
+# Contact 📫
+Feel free to reach out to me on LinkedIn  https://www.linkedin.com/in/andebet or via email andebettilahun24@gmail.com. I'm always eager to collaborate on exciting projects and share my expertise in Python development and DSA. 🤝💻
 
