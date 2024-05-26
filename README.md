@@ -17,12 +17,9 @@ As an experienced Python developer and an expert in Data Structures and Algorith
 ***Tools***: Git 🐙, GitHub 🐱‍💻, pycharm ,Jupyter Notebook 📓
 
 ## Projects 🚀
-Weather App: Developed a user-friendly weather application using Python, Flask, and third-party weather APIs. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
-
+***Weather App***: Developed a user-friendly weather application using Python, Flask, and third-party weather APIs. Implemented features such as real-time weather updates, location-based forecasting, and user preferences. ☀️🌦️
 ***Calculator***: Developed a simple calculator application using Python's Tkinter library, enabling users to perform basic arithmetic operations. 📟💻
-
 ***Password Generator****: Created a secure password generator application using Python, allowing users to generate strong and unique passwords for their online accounts. 🔑🔒
-
 ***Todo List App***: Developed a todo list application using Python and the Flask web framework, allowing users to create, manage, and track their daily tasks. 📝🗓️
 ## Competitive Programming 🏆
 
@@ -43,9 +40,3 @@ Developed and maintained a Python utility library for common data processing tas
 Contact 📫
 Feel free to reach out to me on LinkedIn or via email at [your.email@example.com]. I'm always eager to collaborate on exciting projects and share my expertise in Python development and DSA. 🤝💻
 
-
-Submitted bug fixes and feature enhancements to the Flask web framework
-Wrote comprehensive documentation and tutorials for the Pandas library
-Developed and maintained a Python utility library for common data processing tasks
-Contact
-Feel free to reach out to me on LinkedIn or via email at [your.email@example.com]. I'm always eager to collaborate on exciting projects and share my expertise in Python development and DSA.
