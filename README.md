@@ -41,6 +41,7 @@ I am an active participant in various coding challenges and competitions, where 
 - Achieved top 25% in the test Testdome online software engineering certification test🔥.
               
 - successfully clearing the HackerRank Problem Solving and python  Certification! test🎉.
+- successfully clearing the HackerRank Problem Solving(intermidate) Certification! test🎉.
         
 - Regularly solve problems on LeetCode, HackerRank, and other platforms 💻🧠
 
