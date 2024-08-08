@@ -1,4 +1,4 @@
-# Andebet Tilahun - Python Developer | DSA Coding Expert | AI/ML Engineer🐍💻
+# Andebet Tilahun - Python Developer |Competitive programmer| AI/ML Engineer🐍💻
 
 
 # About Me 🙋‍♂️
