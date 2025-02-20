@@ -1,4 +1,4 @@
-# Python Developer |Competitive programmer| AI/ML Engineer🐍💻
+# Software Developer | Python Enthusiast | Competitive Programmer | Algorithm Engineer🐍💻
 
 
 # About Me 🙋‍♂️
