@@ -1,10 +1,21 @@
-# Software Developer | Python Enthusiast | Competitive Programmer | Algorithm Engineer🐍💻
+# Software Developer | Python Developer| Competitive Programmer | Algorithm Engineer🐍💻
 
 
 # About Me 🙋‍♂️
 
-As an experienced software(Python)developer with over 3 years of hands-on experience, I specialize in crafting efficient, scalable, and maintainable software solutions. I have a strong passion for problem-solving and am well-versed in Data Structures and Algorithms (DSA). My expertise spans various domains, including algorithm development, data science, and artificial intelligence (AI).
-I am committed to leveraging my skills to tackle complex challenges and contribute to innovative projects that drive success.
+👋 Hi, I'm Andebet Tilahun, a dedicated Python Software Developer with a strong passion for problem-solving and a solid foundation in data structures and algorithms (DSA). I actively practice on platforms like LeetCode and HackerRank, sharpening my skills in tackling complex challenges efficiently.
+
+🔍 With a keen analytical mindset, I excel at breaking down intricate problems and devising optimal solutions. Throughout my projects, I have applied DSA concepts to enhance performance and scalability.
+
+🤝 I thrive in collaborative environments and am always eager to learn and adapt to new technologies and methodologies. I believe that a deep understanding of algorithms enhances coding efficiency and contributes to writing clean, maintainable code.
+
+🚀 My goal is to leverage my skills to contribute to innovative projects that push the boundaries of technology.
+
+Feel free to connect with me:
+
+📧 andebettilahun24@gmail.com
+💼 https://www.linkedin.com/in/andebet
+
 # Skills 🛠️
 
 
