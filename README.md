@@ -11,10 +11,6 @@
 
 🚀 My goal is to leverage my skills to contribute to innovative projects that push the boundaries of technology.
 
-Feel free to connect with me:
-
-📧 andebettilahun24@gmail.com
-💼 https://www.linkedin.com/in/andebet
 
 # Skills 🛠️
 
